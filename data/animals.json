@@ -108,6 +108,25 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Max",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Prince",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "12"
     }
   ]
 }
